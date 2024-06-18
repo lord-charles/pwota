@@ -66,14 +66,7 @@ export default function MobileMenu() {
                 </Link>
               </li>
           <li>
-                <Link href="/" className="btn-sm text-white ml-3">
-                  News
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="btn-sm text-white ml-3">
-                  Gallery
-                </Link>
+                
               </li>
               <li>
                 <Link href="/" className="btn-sm text-white ml-3">
